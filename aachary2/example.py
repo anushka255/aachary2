@@ -1,5 +1,5 @@
 def hello():
-    print("Hello World v0.1")
+    print("Hello World v0.2")
 
 
 def add(a, b):
